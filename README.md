@@ -18,19 +18,19 @@ Navigate to the cloned repository directory.
 Run the Application:
 
 Use Python to run the application script.
-Usage
-Start the Application:
+# Usage
+## Start the Application:
 
 Upon running the application, you will see a message indicating the start of the File Copyright License Adder.
 Change Directory:
 
 You will be prompted to enter the path of the directory where your target files are located.
 Enter the directory path.
-Add Copyright License:
+## Add Copyright License:
 
 Enter the name of the file you want to add the copyright notice to. Ensure there are no whitespaces in the file name, and it must be empty before typing.
 The application will append a copyright notice (© 2024 [Name here]) to the file.
-# Error Handling:
+## Error Handling:
 
 If the directory cannot be changed, an error message will be displayed.
 If the specified file cannot be found, an error message will be displayed.
